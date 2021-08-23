@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CalculatorRunner</string>
+    <string name="runCalculatorButtonText">Run Calculator on URI</string>
 </resources>
